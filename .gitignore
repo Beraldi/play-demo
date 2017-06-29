@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 logs
 target
 /.idea
@@ -6,3 +7,7 @@ target
 /.project
 /.settings
 /RUNNING_PID
+=======
+*.class
+*.log
+>>>>>>> 69d29e00064629a50b094c37d6327d99ebef3ed1
